@@ -1,0 +1,20 @@
+OS: Windows 10 Enterprise
+Velkost RAM: 4GB
+64-bitovy OS
+Nazov PC: U127-8
+
+Ubuntu 18.04 - osobné skúsenosti, OS veľakrát používaný na serveroch, zaberá marginálne menej pamäte ako Windows Server.
+
+Program: ESET Endpoint security
+Je aktivny
+Posledna aktualizacia: 16.09.2019 o 7:02:22
+
+MAC adresa je unikatny identifikator zariadenia, v pripade internetu je pouzivana Ethernetovym protokolom.
+Uvadza sa v hexadecimalnom tvare, a kazdy bajt je oddeleny dvojbodkou/pomlckou (dokopy ma 6 bajtov).
+MAC adresa: 7C-D3-0A-1C-5D-68
+IPv4 adresa: 192.168.8.127
+MAC adresa v desiatkovej sustave: 137245849574760 (124-211-10-28-93-104)
+MAC adresa v dvojkovej sustave: 11111001101001100001010000111000101110101101000
+
+Avast! - https://www.avast.com/lp-ppc-hp-v2?ppc=a3&gclid=EAIaIQobChMIwu2219TU5AIVC7TtCh20ww5gEAAYASAAEgLOvPD_BwE&gclsrc=aw.ds , licencia: Free
+Norton - https://support.norton.com/sp/sk/sk/norton-core/current/info , licencia: Platena (Free trial)
