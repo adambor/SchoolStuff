@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570794409 source:c:\c\inf-v\prvocisla_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

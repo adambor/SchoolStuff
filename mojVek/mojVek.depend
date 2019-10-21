@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570189807 source:c:\c\inf-v\mojvek\main.c
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<stdlib.h>
+

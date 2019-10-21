@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570798321 source:c:\c\inf-v\diagram\main.c
+	<stdio.h>
+	<stdlib.h>
+

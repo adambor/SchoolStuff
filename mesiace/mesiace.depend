@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570432954 source:c:\c\inf-v\mesiace\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

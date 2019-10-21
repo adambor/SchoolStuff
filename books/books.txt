@@ -1,0 +1,27 @@
+Nazov knihy 1
+Meno1 Priezvisko1
+12
+Nazov knihy 2
+Meno2 Priezvisko2
+11
+Nazov knihy 3
+Meno3 Priezvisko3
+10
+Nazov knihy 4
+Meno4 Priezvisko4
+8
+Nazov knihy 5
+Meno1 Priezvisko1
+12
+Nazov knihy 6
+Meno5 Priezvisko5
+12
+Nazov knihy 7
+Meno6 Priezvisko6
+12
+Nazov knihy 8
+Meno2 Priezvisko2
+10
+Nazov knihy 9
+Meno1 Priezvisko1
+10
