@@ -1,0 +1,15 @@
+pondelok
+roznasa letaky
+10 EUR
+utorok
+chodi vencit psov
+5 EUR
+streda
+roznasa noviny
+10 EUR
+stvrtok
+vyklada tovar v obchode
+15 EUR
+piatok
+rozvaza pizzu
+20 EUR

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573822530 source:c:\c\inf-v\policko\main.c
+	<stdio.h>
+	<stdlib.h>
+
