@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575270235 source:c:\c\inf-v\stvrtrocicek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
