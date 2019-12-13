@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html style="width: 100%; height: 100%; background: #222; color:  #00FF41; font-family: monospace;">
+
+<body id="body" onload="onload()">
+	<input type="file" id="files" name="files[]" single />
+
+  	<div>
+    	<pre id="code"/>
+    </div>
+    
+	<div id="bottom"></div>
+</body>
+
+<script>
+	var minChars = 2;
+    var maxChars = 5;
+
+	var currIndex = 0;
+    var txt = "";
+	var completeTxt = null;
+    var codeDiv = document.getElementById("code");
+
+	function keyPressed(evt) {
+    	console.log("Key pressed",evt);
+        if(completeTxt!=null && completeTxt.length>currIndex) {
+        	var amount = Math.floor(Math.random() * (maxChars-minChars))+minChars;
+        
+        	if(evt.key=="Backspace") {
+            
+              txt = txt.substring(0, txt.length-amount);
+              codeDiv.innerHTML = txt.replace(new RegExp(">",'g'), "&gt;")
+            	.replace(new RegExp("<",'g'), "&lt;");
+
+              currIndex -= amount;
+              
+              if(currIndex<0) currIndex = 0;
+            } else {
+              txt += completeTxt.substring(currIndex, currIndex+amount);
+              codeDiv.innerHTML = txt.replace(new RegExp(">",'g'), "&gt;")
+            	.replace(new RegExp("<",'g'), "&lt;");
+
+              currIndex += amount;
+
+              document.getElementById( 'bottom' ).scrollIntoView();
+            }
+        
+
+        }
+    }
+    
+    function handleFile(evt) {
+      var files = evt.target.files; // FileList object
+      
+      if(files.length>0) {
+      	var file = files[0];
+      	var reader = new FileReader();
+        
+        reader.onload = function(e) {
+          // The file's text will be printed here
+          
+          if(codeDiv.innerHTML!="") codeDiv.innerHTML = "";
+          document.getElementById("files").style.display = "none";
+          
+          completeTxt = e.target.result
+          	.replace(new RegExp("\r\n",'g'), "\n");
+            
+          console.log(completeTxt);
+        };
+        
+        reader.readAsText(file);
+      }
+
+	  console.log("files: ", files);
+  	}
+
+	function onload() {
+    	document.getElementById('files').addEventListener('change', handleFile, false);
+        document.getElementById("body").addEventListener('keydown', keyPressed, false);
+        console.log("Page loaded");
+    }
+
+</script>
+
+</html>
