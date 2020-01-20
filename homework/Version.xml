@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="ConfigUpgrade.exe" checksum="f364ef8ccb642a65fe2c10dde645702f05d76f35" />
+    <file path="OfflineTestovanie.exe" checksum="43abde8e44923baac3e6007d5a15242c00dde6e9" />
+    <file path="Tools\gxps.exe" checksum="7269b66d172b82da508a8aa0704d6f1d250b78f1" />
+    <file path="AutomaticUpdaterWPF.dll" checksum="26219675d9cbe255309537de2168a9c2ab40f7c4" />
+    <file path="DirectShowLib-2005.dll" checksum="e1b2a763dd6c42439656e4e55aba0f3610ff3784" />
+    <file path="GongSolutions.Wpf.DragDrop.dll" checksum="294014a44415bfb8a0415e1c19c7e8763046ffc8" />
+    <file path="Gradient.TEO.Common.dll" checksum="1dc8263e6c07d77724603c1d371527634369a7bd" />
+    <file path="Gradient.TEO.Cryptography.dll" checksum="e89182f97e420982a9699db2a9aad6a2a887c9f0" />
+    <file path="Gradient.TEO.Enums.dll" checksum="5043571497ac997ca0faf7bb54f6cdf19c638bea" />
+    <file path="Gradient.TEO.Formats.dll" checksum="0b1d7ea6754357a525fb7bcb10b50a7fa2e29db9" />
+    <file path="Gradient.TEO.Offline.TestPlayer.Core.dll" checksum="4cfcd62f58468ac30208d605bc932f0af5416fcf" />
+    <file path="Gradient.TEO.Offline.TestPlayer.Usb.dll" checksum="efc28c943a4628e94b3b456e48380e7b5a91e18a" />
+    <file path="Gradient.TEO.SPS.dll" checksum="77f9f7d6630ef778c24a7fbba227b128a8a774c1" />
+    <file path="Gradient.TEO.Tex.dll" checksum="384b9a49bd11694c4ea29630f26732dbbc45410b" />
+    <file path="Gradient.TEO.Utilities.dll" checksum="cb871218fc1dd8f5d69c8169e5c17398e8549f35" />
+    <file path="Gradient.TEO.WCF.Offline.dll" checksum="63d1b25d513d54ffd751d5864933d74038f79431" />
+    <file path="ICSharpCode.SharpZipLib.dll" checksum="7a9df9c25d49690b6a3c451607d311a866b131f4" />
+    <file path="Microsoft.Expression.Interactions.dll" checksum="e31c05ae685e51d07808b1dd24ceced9d299ed81" />
+    <file path="NAudio.dll" checksum="a3b8e87d2975b8b7cb5656a16d3794e85aeb8166" />
+    <file path="Newtonsoft.Json.dll" checksum="746343a01d55f9246dfdf44a6e2daaf2370ade63" />
+    <file path="PdfSharp-WPF.dll" checksum="8221b7b33c55fa6683eb1cc44437964dd2cfb491" />
+    <file path="PdfSharp.Xps.dll" checksum="d16f63218c49ba7e53f25a66a59576065b3797a7" />
+    <file path="SharpVectors.Converters.dll" checksum="493b0f7b58ac74ee95ef96f069c3448563c71de8" />
+    <file path="SharpVectors.Core.dll" checksum="05f0b426ab884000fd62a39389b4ba5a73486f50" />
+    <file path="SharpVectors.Css.dll" checksum="3515f44309ee1d23fdfc4294ded74de14b661168" />
+    <file path="SharpVectors.Dom.dll" checksum="05fd4b085daf274496b1ce18f710bf7c861d92aa" />
+    <file path="SharpVectors.Model.dll" checksum="2b504e6ba124d41d9d61311a245e91aec1fe92c0" />
+    <file path="SharpVectors.Rendering.Gdi.dll" checksum="c915b2953a04bd84bbc2bbfe1da36c0612d1563e" />
+    <file path="SharpVectors.Rendering.Wpf.dll" checksum="0dc4fe088be2bfe1befb8cf6cd7242389b8767e6" />
+    <file path="SharpVectors.Runtime.dll" checksum="ecb7c4063bcb52ff8e8bf7f183bc3a1fdb385844" />
+    <file path="System.Windows.Interactivity.dll" checksum="dabb4ecffd0c422a8eebff5d4ec8116a6e90d7e7" />
+    <file path="WpfAnimatedGif.dll" checksum="6fbd7784af80b8246e417340521f35738f18a6a4" />
+    <file path="hu\OfflineTestovanie.resources.dll" checksum="db9d1b64457a9e1370300c266c7091002cd3f988" />
+    <file path="sk\OfflineTestovanie.resources.dll" checksum="e5ee51615ad998b3903b84fe7d5e2dc68e9b66de" />
+  </files>
+</application>

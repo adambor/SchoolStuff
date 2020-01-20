@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1576089173 source:c:\users\fyzika notebook\desktop\programovanie_v_c\14_1_skusanie_slovicok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1576182021 source:c:\users\fyzika notebook\desktop\programovanie_v_c\14_1_skusanie_slovicok_bez_pola\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576182395 source:c:\users\fyzika notebook\documents\infv\skusanie_slovicok\bez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
